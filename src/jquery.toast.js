@@ -340,7 +340,7 @@ if ( typeof Object.create !== 'function' ) {
         loader: true,
         loaderBg: '#9EC600',
         stack: 5,
-        position: 'bottom-left',
+        position: 'top-right',
         bgColor: false,
         textColor: false,
         textAlign: 'left',
